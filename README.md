@@ -1,1 +1,1 @@
-# kaplan_assignment
+Django crud
