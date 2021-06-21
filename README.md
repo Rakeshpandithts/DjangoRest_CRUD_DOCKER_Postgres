@@ -1,6 +1,13 @@
 Django CRUD
 READ: https://github.com/Rakeshpandithts/Django_CRUD_DOCKER_Postgres/blob/main/ReadME.pdf
 
+Features:
+
+1. Create assignment
+2. Get assignment by ID
+3. Get assignment by tag (search)
+4. Update
+
 *To Run the project inside project directory run
  docker-compose up
 Testing:
