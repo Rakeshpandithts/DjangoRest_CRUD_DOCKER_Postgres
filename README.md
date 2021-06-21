@@ -1,1 +1,1 @@
-Django crud
+Django CRUD
